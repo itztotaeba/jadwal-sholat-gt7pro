@@ -1,0 +1,4 @@
+node_modules/
+*.hap
+build/
+.DS_Store
